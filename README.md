@@ -14,7 +14,7 @@ A modern AI-powered chat application built using **React + Vite**, inspired by G
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React, Vite, CSS
 * **API:** Google Generative AI (Gemini)
@@ -41,7 +41,7 @@ gemini-clone/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 1. Clone the repository:
 
@@ -77,7 +77,7 @@ npm run dev
 
 
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 This project uses environment variables for security:
 
